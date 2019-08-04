@@ -1,4 +1,4 @@
-# **LIRI APP** #
+#LIRI APP#
 
 ##CLI app##
 

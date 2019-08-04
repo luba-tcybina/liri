@@ -6,4 +6,4 @@ _Link to the app:_ https://luba-tcybina.github.io/liri/
 
 ###Find a concert:### 
 
-![Screenshot] https://github.com/luba-tcybina/liri/blob/master/concertThis.png?raw=true
+![Screenshot] (https://github.com/luba-tcybina/liri/blob/master/concertThis.png?raw=true)

@@ -1,9 +1,7 @@
-# **LIRI APP**
+# **LIRI APP** 
 
-## LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data. ##
+##CLI app##
+
+### LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data. ###
 
 _Link to the app:_ https://luba-tcybina.github.io/liri/ 
-
-###Find a concert:### 
-
-![Screenshot] (https://github.com/luba-tcybina/liri/blob/master/concertThis.png?raw=true)

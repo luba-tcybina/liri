@@ -133,11 +133,5 @@ function spotifyThisSong(songTitle) {
     });
 }
 
-function logData(data) {
-  fs.appendFile('log.txt', data + "\n", function (err) {
-    if (err) throw err;
-    // console.log('Saved!');
-  });
-}
 searchType(getSearchType(), getSearchTerm());
 logData("\nRequest: " + process.argv.slice(2));

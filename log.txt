@@ -164,3 +164,63 @@ Country: USA
 Language: English, Swedish, Italian
 Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
 Cast: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+
+Request: do-what-it-says
+Artist: Backstreet Boys
+Song: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=da02abe0766c48cd9b024f90e84caa37
+Album: The Hits--Chapter One
+
+Request: concert-this,Green,Day
+
+Request: concert-this,Green,day
+
+Request: concert-this,Le,Youth
+Artist: Le Youth,Goldroom,Eau Claire
+Venue: High Seas Boat Tour 2019
+Locale: San Diego, United States
+Date: 08/04/2019
+-----
+Artist: Le Youth
+Venue: Pepper Kitchen Bar & Rooftop
+Locale: Nopagachic San Francisco, Mexico
+Date: 08/16/2019
+-----
+
+Request: spotify-this-song,Sweater,weather
+Artist: The Neighbourhood
+Song: Sweater Weather
+Preview: https://p.scdn.co/mp3-preview/b189d26b94a514fa75e47775b4ce05421c67580f?cid=da02abe0766c48cd9b024f90e84caa37
+Album: I Love You.
+
+Request: spotify-this-song
+Artist: Ace of Base
+Song: The Sign
+Preview: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=da02abe0766c48cd9b024f90e84caa37
+Album: The Sign (US Album) [Remastered]
+
+Request: movie-this
+Film Title: Mr. Nobody
+Year Released: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 63
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Cast: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+Request: movie-this,Mulan
+Film Title: Mulan
+Year Released: 1998
+IMDB Rating: 7.6
+Rotten Tomatoes Rating: 71
+Country: USA
+Language: English, Mandarin
+Plot: To save her father from death in the army, a young maiden secretly goes in his place and becomes one of China's greatest heroines in the process.
+Cast: Miguel Ferrer, Harvey Fierstein, Freda Foh Shen, June Foray
+
+Request: do-what-it-says
+Artist: Backstreet Boys
+Song: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=da02abe0766c48cd9b024f90e84caa37
+Album: The Hits--Chapter One
